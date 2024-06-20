@@ -5,7 +5,7 @@
   "type": "module",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Juyeong-Byeon/ci-cd-sementic.git"
+    "url": "https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo.git"
   },
   "scripts": {
     "dev": "vite",
