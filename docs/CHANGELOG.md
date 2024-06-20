@@ -1,3 +1,9 @@
+## [1.2.0-rc.1](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/compare/v1.1.0...v1.2.0-rc.1) (2024-06-20)
+
+### Features
+
+* main 수정 ([#5](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/issues/5)) ([8784b20](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/commit/8784b2008bcf8712546b3082bcd95c4783d94dba))
+
 ## [1.1.0](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/compare/v1.0.2...v1.1.0) (2024-06-20)
 
 ### Features
