@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/compare/v1.0.2...v1.1.0) (2024-06-20)
+
+### Features
+
+* main ([124864e](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/commit/124864e396703d39965dfb9087837b59e7dbd9bf))
+* main 1 ([#3](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/issues/3)) ([297f917](https://github.com/Juyeong-Byeon/ci-apply-on-existing-repo/commit/297f9176172a683d596abe3f513bdb41361c711c))
+
 <<<<<<< HEAD
 <<<<<<< HEAD
 ## [1.1.0-rc.3](https://github.com/Juyeong-Byeon/ci-cd-sementic/compare/v1.1.0-rc.2...v1.1.0-rc.3) (2024-06-12)
